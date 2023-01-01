@@ -1,0 +1,45 @@
+.abc {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20px;
+    
+}
+.a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.xyz {
+    display: flex;
+    text-align: center;
+    justify-content: flex-end;
+    gap: 20px;
+    align-items: flex-end;
+}
+
+
+
+.button1{
+    background-color: cornflowerblue;
+    border-color: blue;
+    color: white;
+}
+
+.ay{
+    display: block;
+    display: flex;
+    text-align: center;
+    justify-content: flex-start;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+.z{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
